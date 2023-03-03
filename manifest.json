@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "ComfyTube",
+  "description": "Add Player-in-Player button without YouTube Premium, play any YouTube shorts as a normal video",
+  "version": "1.0",
+  "icons":{
+    "16":"icons/16.png",
+    "48":"icons/48.png",
+    "128":"icons/128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*"
+],
+  "content_scripts": [
+    {
+     "matches": [
+        "*://www.youtube.com/*"
+      ],
+      "js": [
+        "scripts/button.js", "scripts/fullscreen.js"
+      ]
+    }
+  ]
+}
