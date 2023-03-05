@@ -3,9 +3,10 @@
  Extension allows you to use the Picture in Picture button in the player and adds a button to play any YouTube shorts as a normal video. 
 
 ### Installation
-Extension available here:  
-////
-
+**Extension available here:**  
+For the Firefox browser - https://addons.mozilla.org/ru/firefox/addon/comfytube/
+  
+ 
 **To install it manually into Chrome follow this steps:**
  1. Download zip file with main files and unpack it 
  2. Go to **chrome://extensions** page and make sure developer mode is enabled
