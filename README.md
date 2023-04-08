@@ -1,5 +1,5 @@
-># ComfyTube ![logo](https://github.com/kthing0/ComfyTube/blob/master/icons/25.png "ComfyTube Icon")
->## A small browser extension that makes using YouTube more comfortable.  
+# ComfyTube ![logo](https://github.com/kthing0/ComfyTube/blob/master/icons/25.png "ComfyTube Icon")
+## A small browser extension that makes using YouTube more comfortable.  
  Extension allows you to use the Picture in Picture button in the player and adds a button to play any YouTube shorts as a normal video. 
 
 ### Installation
