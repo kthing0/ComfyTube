@@ -7,7 +7,7 @@
 For the Firefox browser - https://addons.mozilla.org/ru/firefox/addon/comfytube/
   
  
-**To install it manually into Chrome follow this steps:**
+**To install it manually into Chrome follow these steps:**
  1. Download zip file with main files and unpack it 
  2. Go to **chrome://extensions** page and make sure developer mode is enabled
  3. Press **"Load unpacked"** and choose the folder where unpacked extension is stored
